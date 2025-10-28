@@ -51,7 +51,7 @@ Ou com Python:
 python -m http.server
 
 Acesse no navegador:
-http://localhost:8000
+'http://localhost:8000'
 
 📋 Observações
 O SPA funciona apenas quando o projeto é servido por um servidor local — abrir os arquivos diretamente (file://) pode impedir o funcionamento do fetch.
